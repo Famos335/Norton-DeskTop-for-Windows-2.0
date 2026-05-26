@@ -1,0 +1,11 @@
+*.EXE binary
+*.exe binary
+*.SYS binary
+*.sys binary
+*.INI binary
+*.ini binary
+*.DL$ binary
+*.EX$ binary
+*.38$ binary
+*.md text eol=lf
+*.txt text eol=lf
